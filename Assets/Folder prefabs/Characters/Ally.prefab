@@ -166,7 +166,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Duration: 10
-  navMeshAgent: {fileID: 0}
+  navMeshAgent: {fileID: 1758751850659058014}
 --- !u!195 &1758751850659058014
 NavMeshAgent:
   m_ObjectHideFlags: 0
