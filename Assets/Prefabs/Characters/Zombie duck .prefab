@@ -246,7 +246,7 @@ MonoBehaviour:
   enemyAttack: {fileID: 3498189032947744436}
   enemyMovement: {fileID: 3498189032947744437}
   animator: {fileID: 3498189032947744442}
-  audioSource: {fileID: 0}
+  audioSource: {fileID: 3498189032947744440}
   capsuleCollider: {fileID: 3498189032947744425}
   hitParticles: {fileID: 0}
   isInvulnerable: 0
@@ -259,7 +259,8 @@ AudioSource:
   m_GameObject: {fileID: 3498189032947744427}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 5235594110648130573, guid: 67010d58ccaee477da889fd6809b63c1,
+    type: 2}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
